@@ -1,0 +1,17 @@
+//
+//  Equipment.pch
+//  英雄联盟盒子
+//
+//  Created by lanou3g on 15/10/19.
+//  Copyright (c) 2015年 lanou3g. All rights reserved.
+//
+
+#ifndef _______Equipment_pch
+#define _______Equipment_pch
+
+#define kEquipmentURL @"http://lolbox.duowan.com/phone/apiZBCategory.php?v=108&OSType=iOS8.3&versionName=2.2.5"//装备的分类
+
+#define kEquipmentToolURL @"http://lolbox.duowan.com/phone/apiZBItemList.php?tag=Tools&v=108&OSType=iOS8.3&versionName=2.2.5"//装备工具
+
+
+#endif
